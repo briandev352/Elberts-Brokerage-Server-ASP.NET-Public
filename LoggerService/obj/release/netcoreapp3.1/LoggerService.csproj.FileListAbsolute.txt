@@ -1,0 +1,14 @@
+C:\Users\redwood-presenter\Desktop\curriculum_master\10 - aspnet core full stack\AccountOwnerServer\AccountOwnerServer\LoggerService\bin\release\netcoreapp3.1\LoggerService.deps.json
+C:\Users\redwood-presenter\Desktop\curriculum_master\10 - aspnet core full stack\AccountOwnerServer\AccountOwnerServer\LoggerService\bin\release\netcoreapp3.1\LoggerService.dll
+C:\Users\redwood-presenter\Desktop\curriculum_master\10 - aspnet core full stack\AccountOwnerServer\AccountOwnerServer\LoggerService\bin\release\netcoreapp3.1\LoggerService.pdb
+C:\Users\redwood-presenter\Desktop\curriculum_master\10 - aspnet core full stack\AccountOwnerServer\AccountOwnerServer\LoggerService\bin\release\netcoreapp3.1\Contracts.dll
+C:\Users\redwood-presenter\Desktop\curriculum_master\10 - aspnet core full stack\AccountOwnerServer\AccountOwnerServer\LoggerService\bin\release\netcoreapp3.1\Entities.dll
+C:\Users\redwood-presenter\Desktop\curriculum_master\10 - aspnet core full stack\AccountOwnerServer\AccountOwnerServer\LoggerService\bin\release\netcoreapp3.1\Contracts.pdb
+C:\Users\redwood-presenter\Desktop\curriculum_master\10 - aspnet core full stack\AccountOwnerServer\AccountOwnerServer\LoggerService\bin\release\netcoreapp3.1\Entities.pdb
+C:\Users\redwood-presenter\Desktop\curriculum_master\10 - aspnet core full stack\AccountOwnerServer\AccountOwnerServer\LoggerService\obj\release\netcoreapp3.1\LoggerService.csprojAssemblyReference.cache
+C:\Users\redwood-presenter\Desktop\curriculum_master\10 - aspnet core full stack\AccountOwnerServer\AccountOwnerServer\LoggerService\obj\release\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\redwood-presenter\Desktop\curriculum_master\10 - aspnet core full stack\AccountOwnerServer\AccountOwnerServer\LoggerService\obj\release\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+C:\Users\redwood-presenter\Desktop\curriculum_master\10 - aspnet core full stack\AccountOwnerServer\AccountOwnerServer\LoggerService\obj\release\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+C:\Users\redwood-presenter\Desktop\curriculum_master\10 - aspnet core full stack\AccountOwnerServer\AccountOwnerServer\LoggerService\obj\release\netcoreapp3.1\LoggerService.csproj.CopyComplete
+C:\Users\redwood-presenter\Desktop\curriculum_master\10 - aspnet core full stack\AccountOwnerServer\AccountOwnerServer\LoggerService\obj\release\netcoreapp3.1\LoggerService.dll
+C:\Users\redwood-presenter\Desktop\curriculum_master\10 - aspnet core full stack\AccountOwnerServer\AccountOwnerServer\LoggerService\obj\release\netcoreapp3.1\LoggerService.pdb

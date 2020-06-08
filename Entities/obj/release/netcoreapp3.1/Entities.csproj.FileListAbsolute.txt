@@ -1,0 +1,8 @@
+C:\Users\redwood-presenter\Desktop\curriculum_master\10 - aspnet core full stack\AccountOwnerServer\AccountOwnerServer\Entities\bin\release\netcoreapp3.1\Entities.deps.json
+C:\Users\redwood-presenter\Desktop\curriculum_master\10 - aspnet core full stack\AccountOwnerServer\AccountOwnerServer\Entities\bin\release\netcoreapp3.1\Entities.dll
+C:\Users\redwood-presenter\Desktop\curriculum_master\10 - aspnet core full stack\AccountOwnerServer\AccountOwnerServer\Entities\bin\release\netcoreapp3.1\Entities.pdb
+C:\Users\redwood-presenter\Desktop\curriculum_master\10 - aspnet core full stack\AccountOwnerServer\AccountOwnerServer\Entities\obj\release\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\redwood-presenter\Desktop\curriculum_master\10 - aspnet core full stack\AccountOwnerServer\AccountOwnerServer\Entities\obj\release\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\redwood-presenter\Desktop\curriculum_master\10 - aspnet core full stack\AccountOwnerServer\AccountOwnerServer\Entities\obj\release\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\redwood-presenter\Desktop\curriculum_master\10 - aspnet core full stack\AccountOwnerServer\AccountOwnerServer\Entities\obj\release\netcoreapp3.1\Entities.dll
+C:\Users\redwood-presenter\Desktop\curriculum_master\10 - aspnet core full stack\AccountOwnerServer\AccountOwnerServer\Entities\obj\release\netcoreapp3.1\Entities.pdb
